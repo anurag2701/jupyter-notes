@@ -23,7 +23,7 @@ docker-compose build
 docker-compose up
 ```
 
-This will build the Docker image and start the Jupyter Notebook server. The server will be accessible at `http://localhost:8888.`
+This will build the Docker image and start the Jupyter Notebook server. The server will be accessible at [`http://localhost:8888`](https://localhost:8888) .
 
 ## Access the Docker Container Shell:
 
